@@ -1,3 +1,7 @@
+Group:
+Davy Araujo Sa Teles
+Nuno Kuschnaroff Barbosa
+
 ## Q1.
 
 - $\pi_1$: S₀ → a₁, S₁ → a₀, S₂ → a₀, S₃ → a₀  
