@@ -1,6 +1,6 @@
-Group:
-Davy Araujo Sa Teles
-Nuno Kuschnaroff Barbosa
+# Group:
+- Davy Araujo Sa Teles
+- Nuno Kuschnaroff Barbosa
 
 ## Q1.
 
